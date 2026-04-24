@@ -45,10 +45,6 @@
 - ☸️ Running a self-hosted Kubernetes lab with Flux CD and Traefik
 - 📈 Obsessing over observability with the Victoria* stack + Grafana
 
-## GitHub Activity
-
-![Mukbeast4's GitHub Contribution Graph](https://ghchart.rshah.org/Mukbeast4)
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@mukbeast4-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mukbeast4)
