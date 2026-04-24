@@ -19,6 +19,7 @@
 
 - 🐉 **[go-mt5](https://github.com/Mukbeast4/go-mt5)** — Native Go client for MetaTrader 5 via Windows Named Pipe IPC — no Expert Advisor needed
 - 📊 **[go-ods](https://github.com/Mukbeast4/go-ods)** — Pure Go library for reading, writing, and evaluating ODS (OpenDocument Spreadsheet) files
+- 📋 **[go-csv](https://github.com/Mukbeast4/go-csv)** — Pure Go CSV library with streaming, typed accessors, SQL CLI, struct generator, and parallel parser (up to 2× stdlib throughput)
 - 💳 **[Cashless](https://github.com/Mukbeast4/Cashless)** — Cashless payment project
 
 ## Stack
