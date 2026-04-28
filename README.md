@@ -13,7 +13,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Student exploring backend engineering with Go, iOS apps with SwiftUI, and resilient self-hosted infrastructure on Kubernetes + Flux CD. Big fan of clean architecture, repository patterns, and observability stacks that don't break the bank.
 
 ## Featured Projects
 
