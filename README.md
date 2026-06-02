@@ -21,30 +21,6 @@
 - 📋 **[go-csv](https://github.com/Mukbeast4/go-csv)** — Pure Go CSV library with streaming, typed accessors, SQL CLI, struct generator, and parallel parser (up to 2× stdlib throughput)
 - 💳 **[Cashless](https://github.com/Mukbeast4/Cashless)** — Cashless payment project
 
-## Stack
-
-**Backend** · Go · Chi / Fiber / Gin · Clean Architecture · Repository pattern · JWT
-
-**Mobile** · Swift 6.2 · SwiftUI · iOS 26 · MVVM · Swift Package Manager
-
-**Frontend** · React · TypeScript · Bun
-
-**Data** · MongoDB · Redis
-
-**Infra** · Docker · Kubernetes · Flux CD (GitOps) · Traefik v2.11 · Ansible · GitLab CI/CD
-
-**Observability** · Grafana · VictoriaMetrics · VictoriaLogs
-
-**Tools** · Ghostty · zsh · Starship · Claude Code
-
-## What I'm Working On
-
-- 🎓 Studying and building side projects to sharpen full-stack skills
-- 🧱 Writing Go APIs with clean architecture and strict Repository/Service/Handler separation
-- 📱 Shipping native iOS apps in SwiftUI + Swift 6.2 concurrency
-- ☸️ Running a self-hosted Kubernetes lab with Flux CD and Traefik
-- 📈 Obsessing over observability with the Victoria* stack + Grafana
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@mukbeast4-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mukbeast4)
