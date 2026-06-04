@@ -16,10 +16,11 @@
 
 ## Featured Projects
 
-- 🐉 **[go-mt5](https://github.com/Mukbeast4/go-mt5)** — Native Go client for MetaTrader 5 via Windows Named Pipe IPC — no Expert Advisor needed
+- 🐉 **[go-mt5](https://github.com/Mukbeast4/go-mt5)** — Pure Go client for MetaTrader 5 via Windows Named Pipe IPC — no Expert Advisor needed
 - 📊 **[go-ods](https://github.com/Mukbeast4/go-ods)** — Pure Go library for reading, writing, and evaluating ODS (OpenDocument Spreadsheet) files
 - 📋 **[go-csv](https://github.com/Mukbeast4/go-csv)** — Pure Go CSV library with streaming, typed accessors, SQL CLI, struct generator, and parallel parser (up to 2× stdlib throughput)
 - 💳 **[Cashless](https://github.com/Mukbeast4/Cashless)** — Cashless payment project
+- 🧭 **[arc-browser-mcp](https://github.com/Mukbeast4/arc-browser-mcp)** — MCP server to drive the Arc browser on macOS via AppleScript and CDP engines
 
 ## Connect
 
