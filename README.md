@@ -1,6 +1,6 @@
 # Hi, I'm Mukbeast4 👋
 
-📍 **Paris, France** &nbsp;|&nbsp; 🎓 **Student** &nbsp;|&nbsp; 🛠 **Backend Go · SwiftUI · Self-hosted Infra**
+📍 **Paris, France** &nbsp;|&nbsp; 🎓 **Student**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -21,6 +21,7 @@
 - **[go-csv](https://github.com/Mukbeast4/go-csv)** — Pure Go CSV library with streaming, typed accessors, SQL CLI, struct generator, and parallel parser (up to 2× stdlib throughput)
 - **[Cashless](https://github.com/Mukbeast4/Cashless)** — Cashless payment project
 - **[arc-browser-mcp](https://github.com/Mukbeast4/arc-browser-mcp)** — MCP server to drive the Arc browser on macOS via AppleScript and CDP engines
+- **[star-candles](https://github.com/Mukbeast4/star-candles)** — GitHub star history rendered as a Japanese candlestick chart, self-updating in the README
 
 ## Connect
 
