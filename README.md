@@ -1,8 +1,9 @@
 # Hi, I'm Mukbeast4 👋
 
-📍 **Paris, France** &nbsp;|&nbsp; 🎓 **Student**
+📍 **Paris, France** &nbsp;|&nbsp; **Co-founder of [CyberSeren](https://cyberseren.com)**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
@@ -13,6 +14,12 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+
+## CyberSeren
+
+Co-founder of [CyberSeren](https://cyberseren.com), official Palo Alto Networks partner.
+
+- **[cyberseren-skills](https://github.com/cyberseren/cyberseren-skills)** — Agent skills for Palo Alto Networks products: Claude Code, Codex, Cursor, Copilot
 
 ## Featured Projects
 
