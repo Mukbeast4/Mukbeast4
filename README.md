@@ -1,6 +1,6 @@
 # Hi, I'm Mukbeast4 👋
 
-📍 **Paris, France** &nbsp;|&nbsp; 🎓 **Student** &nbsp;|&nbsp; **Co-founder of [CyberSeren](https://cyberseren.com)**
+📍 **Paris, France** &nbsp;|&nbsp; **Co-founder of [CyberSeren](https://cyberseren.com)**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
