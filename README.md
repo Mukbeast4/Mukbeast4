@@ -19,7 +19,7 @@
 
 Co-founder of [CyberSeren](https://cyberseren.com), official Palo Alto Networks partner.
 
-- **[cyberseren-skills](https://github.com/cyberseren/cyberseren-skills)** — Agent skills for Palo Alto Networks products: Prisma Browser Access & Data Control rules in Strata Cloud Manager, for Claude Code, Codex, Cursor and GitHub Copilot
+- **[cyberseren-skills](https://github.com/cyberseren/cyberseren-skills)** — Agent skills for Palo Alto Networks products: Claude Code, Codex, Cursor, Copilot
 
 ## Featured Projects
 
